@@ -1,0 +1,85 @@
+# ביגוד בוטיק — Generative Engine Optimization Map
+
+> A אופנה וביגוד business.
+
+---
+
+## Pages
+
+### Home
+https://-40158ce1.zappy5.app
+
+### About
+https://-40158ce1.zappy5.app/about
+
+### Lookbook
+https://-40158ce1.zappy5.app/lookbook
+
+### Contact
+https://-40158ce1.zappy5.app/contact
+
+### Products
+https://-40158ce1.zappy5.app/products
+המוצרים שלנו - ביגוד בוטיק
+
+### Cart
+https://-40158ce1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-40158ce1.zappy5.app/checkout
+תשלום
+
+### Login
+https://-40158ce1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-40158ce1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-40158ce1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-40158ce1.zappy5.app/product/:slug
+פרטי המוצר - ביגוד בוטיק
+
+### Category
+https://-40158ce1.zappy5.app/category/:slug
+מוצרים - ביגוד בוטיק
+
+## Legal & Policy
+
+### Privacy Policy
+https://-40158ce1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-40158ce1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-40158ce1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ביגוד בוטיק
+ביגוד בוטיק is a business in the אופנה וביגוד industry.
+
+## Target Audience
+18+ שמחפשים ביגוד יפה במחיר הגיוני
+
+## Industry
+אופנה וביגוד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-40158ce1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-40158ce1.zappy5.app/robots.txt
